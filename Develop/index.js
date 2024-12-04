@@ -148,21 +148,3 @@ inquirer
         err ? console.log(err) : console.log(`${answers.nameFile}.md was created!`)
     );
 });
-// TODO: Create a function to write README file
-
-//function writeToFile(fileName, data) {} inside the first function 
-
-// TODO: Create a function to initialize app
-//function init() {}
-
-// Function call to initialize app
-//init();
-
-//needs a functional table of contents(can click and it will send to other thing)
-//look closer into the thing sent to you
-
-
-
-/*
-
-*/
